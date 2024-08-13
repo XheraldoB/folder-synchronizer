@@ -19,3 +19,4 @@ Second real example in CMD.
 I have a folder named sync_folders_bilo, which contains two subfolders: source and replica, along with a text logfile.
 
 C:\Users\bigea\Downloads\sync_folders_bilo>python sync_folders.py "C:\Users\bigea\Downloads\sync_folders_bilo\source" "C:\Users\bigea\Downloads\sync_folders_bilo\replica" "C:\Users\bigea\Downloads\sync_folders_bilo\logfile.log" 30
+And in order to stop it, press "CTRL + C"
